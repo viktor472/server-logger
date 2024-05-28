@@ -1,0 +1,30 @@
+[
+  {
+    "id": "6aeca074-2ab5-47ee-a3db-621fbda05e49",
+    "name": "Fredrik"
+  },
+  {
+    "id": "1a9cc675-71ce-43d8-8bc9-d0856d3e1ef6",
+    "name": "kalle"
+  },
+  {
+    "id": "74e3902b-7af2-4df7-87e7-9acf9d93f24e",
+    "name": "Hello",
+    "password": "123"
+  },
+  {
+    "id": "1d52b50d-a669-49d1-b731-2df2cb576608",
+    "name": "Hello2",
+    "password": "123"
+  },
+  {
+    "id": "c06a445b-f70a-420b-9f2d-bf5221f47f78",
+    "name": "Hello3",
+    "password": "123"
+  },
+  {
+    "id": "b0da1dbc-6a4f-4565-8a40-40cf24b2c95d",
+    "name": "Hello5",
+    "password": "123"
+  }
+]
